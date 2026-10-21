@@ -1,51 +1,73 @@
-<h1 align="center">Bruno Otavio da Silveira</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=520&lines=Estudante+de+Ciberseguran%C3%A7a;Infraestrutura+%26+Redes;Foco+em+Seguran%C3%A7a+Defensiva+e+Ofensiva;Em+busca+de+est%C3%A1gio" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C48C&height=200&section=header&text=Bruno%20Silveira&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cibersegurança%20%7C%20Infraestrutura%20%7C%20Redes&descSize=18&descAlignY=60" width="100%" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:brunootaviodasilveira@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C" />
-  </a>
-</p>
+<br>
 
----
+![Status](https://img.shields.io/badge/Status-Em%20busca%20de%20est%C3%A1gio-00C48C?style=for-the-badge&labelColor=0D1117)
 
-## > whoami
+<br><br>
 
-Estou construindo minha base em **cibersegurança e infraestrutura**, aprendendo na prática: montando laboratórios, estudando vulnerabilidades e desenvolvendo ferramentas próprias.
-Busco meu primeiro **estágio na área de infraestrutura ou segurança da informação**.
+<a href="https://www.linkedin.com/in/SEU-LINK-AQUI">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:brunootaviodasilveira@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=00C48C" />
+</a>
 
-## > skills
+</div>
 
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-0D1117?style=flat-square&logo=debian&logoColor=A81D33)
-![Kali](https://img.shields.io/badge/Kali_Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=557C94)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=4EAA25)
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
-![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=1679A7)
+<br>
 
-**Áreas de estudo:** redes • hardening de servidores Linux • análise de vulnerabilidades • segurança web • virtualização
+## Sobre mim
 
-## > projects
+Sou estudante de **cibersegurança e infraestrutura**, e aprendo na prática: montando laboratórios, estudando vulnerabilidades e criando minhas próprias ferramentas.
 
-| Projeto | Descrição |
-|---|---|
-| [**projetoscyber**](https://github.com/brunosilveira6/projetoscyber) | Meus laboratórios e estudos de cibersegurança |
-| **Scanner de vulnerabilidades** | Site que realiza scan de vulnerabilidades, rodando em VM Debian *(link em breve)* |
+Estou em busca do meu primeiro **estágio em infraestrutura ou segurança da informação**.
 
-## > now
+<br>
 
-- 🔐 Aprofundando em segurança web e análise de vulnerabilidades
-- 🖥️ Praticando administração e hardening de Linux
-- 🎯 Procurando estágio em infraestrutura / cibersegurança
+## Foco de estudo
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunosilveira6&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" />
-</p>
+<div align="center">
+
+| Segurança | Infraestrutura |
+|:---:|:---:|
+| Análise de vulnerabilidades | Administração de servidores Linux |
+| Segurança web | Redes |
+| Hardening | Virtualização |
+
+</div>
+
+<br>
+
+## Tecnologias
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-0D1117?style=for-the-badge&logo=debian&logoColor=A81D33)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
+
+</div>
+
+<br>
+
+## Projetos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/brunosilveira6/projetoscyber">projetoscyber</a></h3>
+      <p>Meus laboratórios e estudos de cibersegurança.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Scanner de vulnerabilidades</h3>
+      <p>Site que faz varredura de vulnerabilidades, rodando em uma máquina virtual Debian. <i>Em breve aqui.</i></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C48C,100:0D1117&height=100&section=footer" width="100%" />
